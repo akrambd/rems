@@ -1,0 +1,9 @@
+.search-bar {
+    background: rgba(151, 151, 151, 0.33);
+    padding: 20px;
+}
+
+.row {
+    margin-right: -15px;
+    margin-left: -15px;
+}

@@ -1,0 +1,88 @@
+.top-header {
+    background-color: #3F84B1;
+    border-bottom: 0 none;
+	height: 36px;
+    line-height: 35px;
+}
+ul.tp-hd-lft{
+    float: left;
+}
+ul.tp-hd-lft li {
+    display: inline-block;
+}
+li.hm,li.prnt {
+    margin-right: 12px;
+}
+ul.tp-hd-lft a {
+    font-size: 13px;
+    font-weight: 600;
+	color:#fff;
+}
+ul.tp-hd-rgt{
+    float:right;
+}
+ul.tp-hd-rgt li {
+    display: inline-block;
+	font-size: 13px;
+    font-weight: 600;
+	color:#fff;
+}
+ul.tp-hd-rgt  a {
+    font-size: 13px;
+    font-weight: 600;
+	color:#fff;
+}
+li.ned,li.wrt,li.tol{
+    margin-right: 12px;
+}
+/*-- /top-header --*/
+/*-- header --*/
+.header {
+    background-color: #fff;
+    margin: 0;
+	padding: 10px 0 8px;
+}
+.logo a {
+    display: block;
+}
+.logo {
+    float: left;
+	 margin-right: 60px;
+}
+.bus {
+    float: left;
+	padding-top: 17px;
+}
+.bus a {
+    color: #1f8dd6;
+    font-weight: 600;
+    font-size: 14px;
+    letter-spacing: .05em;
+	padding:0 15px;
+}
+.lock {
+    float: right;
+    margin-top: 7px;
+}
+.securetxt {
+    color: #1f8dd6;
+    line-height: 18px;
+    margin-top: 0px;
+	font-size: 14px;
+	font-weight:600;
+}
+.lock li {
+    display: inline-block;
+}
+i.fa.fa-lock {
+    color:#1f8dd6;
+    font-size: 2em;
+    padding-right: 10px;
+}
+/*-- /header --*/
+
+
+.top-header {
+    line-height: 23px;
+    padding: 0.5em 0;
+}
